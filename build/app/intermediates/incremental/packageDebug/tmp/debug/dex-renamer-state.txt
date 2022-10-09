@@ -1,0 +1,4 @@
+#Sun Oct 09 11:25:57 IST 2022
+base.0=C\:\\Users\\HP\\Desktop\\Complete App development\\QRgenerator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
